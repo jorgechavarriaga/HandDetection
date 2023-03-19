@@ -1,0 +1,6 @@
+THUMB   = 4
+INDEX   = 8
+MIDDLE  = 12
+RING    = 16
+PINKY   = 20
+WRIST   = 0
